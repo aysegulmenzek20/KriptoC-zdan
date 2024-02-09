@@ -1,0 +1,6 @@
+@KriptoCüzdan_HostAddress = http://localhost:5247
+
+GET {{KriptoCüzdan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
